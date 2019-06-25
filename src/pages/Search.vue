@@ -9,7 +9,7 @@
             <button @click="searchMovies" id="searchbtn">検索</button>
         </div>
     </div>
-    <div class="columns is-mobile" v-for= "result in results">
+    <div class="columns is-mobile" v-for= "result in results" v-bind:key="result.id" >
         <div class="card">
             <div class="card-divider">
                 {{ result.snippet.title}}
