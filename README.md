@@ -1,5 +1,6 @@
 # api_spa
-
+Youtube　Data Apiを使い、Vue CliでSPAサイトを構築しました。
+Youtubeにある動画をキーワードで検索できるサービスとなっています。
 > A Vue.js project
 
 ## Build Setup
