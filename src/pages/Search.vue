@@ -30,7 +30,7 @@
 <script src="https://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
 <script>
 import axios from 'axios';
-const api_key = "AIzaSyAjtV8ke-qrWbVg9WJlJOjwVYuKlL1JjZ8";
+const api_key = "--------------------------------------";
 const url =  "https://www.googleapis.com/youtube/v3/search";
 
 
